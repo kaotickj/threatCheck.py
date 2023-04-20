@@ -1,7 +1,7 @@
 Dependencies:
--  An account at https://support.maxmind.com/hc/en-us/articles/4407099783707-Create-an-Account
+-  A Free account at https://support.maxmind.com/hc/en-us/articles/4407099783707-Create-an-Account
 -  -Download the geolite2-city.mmdb from https://www.maxmind.com/en/accounts/854495/geoip/downloads
-- API Key from https://www.abuseipdb.com/ for AbuseIPDB lookups
+- Free or paid API Key from https://www.abuseipdb.com/ for AbuseIPDB lookups
 
 threatCheck.py does the following:
 
